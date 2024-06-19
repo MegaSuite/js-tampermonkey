@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9fa7cd9-9dcd-4491-8215-7c2e8dc72832" name="Changes" comment="" />
+    <list default="true" id="c9fa7cd9-9dcd-4491-8215-7c2e8dc72832" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +58,7 @@
       <workItem from="1709292236649" duration="621000" />
       <workItem from="1709292889352" duration="92000" />
       <workItem from="1709292992640" duration="306000" />
+      <workItem from="1709294871159" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
