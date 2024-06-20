@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  stimulate clicking login button in the login page of HUST Network
 // @author       Konrad Gerrens
-// @match        http://172.18.18.6[0,1]:8080/*
+// @match        http://172.18.18.60:8080/*
 // @icon         https://github.com/MegaSuite/js-tampermonkey/blob/master/ClickStimulator/HUST-logo.png?raw=true
 // ==/UserScript==
 
