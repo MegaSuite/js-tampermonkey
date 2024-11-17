@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Click Stimulator
 // @namespace    https://github.com/MegaSuite/js-tampermonkey
-// @version      0.2
+// @version      0.3
 // @description  stimulate clicking login button in the login page of HUST Network
 // @author       Konrad Gerrens
 // @match        http://172.18.18.60:8080/*
+// @match        http://172.18.18.61:8080/*
 // @icon         https://github.com/MegaSuite/js-tampermonkey/blob/master/ClickStimulator/HUST-logo.png?raw=true
 // ==/UserScript==
 
