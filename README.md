@@ -5,7 +5,7 @@
 ### Intro
 基于浏览器的账号密码自动填充功能，通过添加自启动任务，开机解锁后会自动打开认证界面，脚本自动填充账号密码，模拟点击登录按钮，实现自动登录。
 初次使用需要在tampermonkey设置页面进行用户名密码填写，位置如下图。
-![初始数据填写](./credentials.png)
+![初始数据填写](./ClickStimulator/credentials.png)
 
 ### Usage
 
